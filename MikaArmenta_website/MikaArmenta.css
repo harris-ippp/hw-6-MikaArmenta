@@ -1,0 +1,50 @@
+
+
+body{background-color: Black;
+  font-family: Calibri;
+  color: FloralWhite}
+
+  img {float:center;
+  margin: 0px 40px;
+  }
+
+
+h1 {color: FloralWhite;
+font-size: 35px}
+
+
+h2 {color: FloralWhite;}
+
+
+h3 {color: ; }
+
+table{
+margin: 0px 40px;
+}
+
+
+th {color: FloralWhite;
+background-color: black;}
+
+ul.list li {display: inline;
+padding: 10px;}
+
+ul.list li a.active {
+  color: FloralWhite;
+  background-color: Black;
+  font-weight: bold;
+}
+
+ul.list li a:hover{
+  color: RosyBrown;
+  transition: 0s;
+}
+
+ul.readingsList li a{display:block;
+padding: 7px;
+color: FloralWhite}
+
+ul.readingsList li a:hover{
+  color: RosyBrown;
+  transition:0s;
+}
